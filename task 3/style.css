@@ -26,6 +26,9 @@ body {
 .end {
     display: flex;
     justify-content: end;
+    height: auto;
+    flex-grow: 1;
+    align-items: end;
     padding-right: 15px;
     padding-bottom: 10px;;
 }
